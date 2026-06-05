@@ -1,0 +1,11 @@
+✅ Q1. Print "Hello World" N Times
+✅ Q2. Print Natural Numbers up to N
+✅ Q3. Reverse Loop (Print N to 1)
+✅ Q4. Table of a Number (up to 10 terms)
+✅ Q5. Sum Up to N Terms
+✅ Q6. Factorial of a Number
+✅ Q7. Sum of Even and Odd Numbers in Range
+✅ Q8. All Factors of a Number
+✅ Q9. Check Prime (Three Methods)
+
+1. Sum of Even and Odd Numbers in Range

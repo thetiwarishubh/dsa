@@ -1,0 +1,1 @@
+// ✅ Q4. Table of a Number (up to 10 terms)
