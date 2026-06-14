@@ -8,4 +8,3 @@
 ✅ Q8. All Factors of a Number
 ✅ Q9. Check Prime (Three Methods)
 
-1. Sum of Even and Odd Numbers in Range
